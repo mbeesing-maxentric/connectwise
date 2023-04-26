@@ -1,3 +1,0 @@
-LT_SERVER_ADDRESS=https://maxentric.hostedrmm.com
-LT_SYSTEM_PASSWORD=owzNej2NwEmPHeIEAmMKudAtR4NOY3JO
-LT_LOCATION_ID=1
